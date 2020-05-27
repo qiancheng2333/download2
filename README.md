@@ -1,1 +1,1 @@
-# download2
+*.pyc
